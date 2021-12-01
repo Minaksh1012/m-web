@@ -1,0 +1,588 @@
+{
+    "Chadwick Boseman": [
+        "Michael B. Jordan",
+        "Lupita Nyong'o",
+        "Danai Gurira",
+        "Martin Freeman"
+    ],
+    "Michael B. Jordan": [
+        "Chadwick Boseman",
+        "Lupita Nyong'o",
+        "Danai Gurira",
+        "Martin Freeman"
+    ],
+    "Lupita Nyong'o": [
+        "Chadwick Boseman",
+        "Michael B. Jordan",
+        "Danai Gurira",
+        "Martin Freeman"
+    ],
+    "Danai Gurira": [
+        "Chadwick Boseman",
+        "Michael B. Jordan",
+        "Lupita Nyong'o",
+        "Martin Freeman"
+    ],
+    "Martin Freeman": [
+        "Chadwick Boseman",
+        "Michael B. Jordan",
+        "Lupita Nyong'o",
+        "Danai Gurira"
+    ],
+    "Robert Downey Jr.": [
+        "Chris Evans",
+        "Mark Ruffalo",
+        "Chris Hemsworth",
+        "Scarlett Johansson"
+    ],
+    "Chris Evans": [
+        "Robert Downey Jr.",
+        "Mark Ruffalo",
+        "Chris Hemsworth",
+        "Scarlett Johansson"
+    ],
+    "Mark Ruffalo": [
+        "Robert Downey Jr.",
+        "Chris Evans",
+        "Chris Hemsworth",
+        "Scarlett Johansson"
+    ],
+    "Chris Hemsworth": [
+        "Robert Downey Jr.",
+        "Chris Evans",
+        "Mark Ruffalo",
+        "Scarlett Johansson",
+        "Tom Hiddleston",
+        "Cate Blanchett",
+        "Idris Elba",
+        "Jeff Goldblum"
+    ],
+    "Scarlett Johansson": [
+        "Robert Downey Jr.",
+        "Chris Evans",
+        "Mark Ruffalo",
+        "Chris Hemsworth"
+    ],
+    "Tom Cruise": [
+        "Henry Cavill",
+        "Ving Rhames",
+        "Simon Pegg",
+        "Rebecca Ferguson"
+    ],
+    "Henry Cavill": [
+        "Tom Cruise",
+        "Ving Rhames",
+        "Simon Pegg",
+        "Rebecca Ferguson"
+    ],
+    "Ving Rhames": [
+        "Tom Cruise",
+        "Henry Cavill",
+        "Simon Pegg",
+        "Rebecca Ferguson"
+    ],
+    "Simon Pegg": [
+        "Tom Cruise",
+        "Henry Cavill",
+        "Ving Rhames",
+        "Rebecca Ferguson"
+    ],
+    "Rebecca Ferguson": [
+        "Tom Cruise",
+        "Henry Cavill",
+        "Ving Rhames",
+        "Simon Pegg"
+    ],
+    "Tom Hardy": [
+        "Charlize Theron",
+        "Nicholas Hoult",
+        "Hugh Keays-Byrne",
+        "Josh Helman"
+    ],
+    "Charlize Theron": [
+        "Tom Hardy",
+        "Nicholas Hoult",
+        "Hugh Keays-Byrne",
+        "Josh Helman"
+    ],
+    "Nicholas Hoult": [
+        "Tom Hardy",
+        "Charlize Theron",
+        "Hugh Keays-Byrne",
+        "Josh Helman"
+    ],
+    "Hugh Keays-Byrne": [
+        "Tom Hardy",
+        "Charlize Theron",
+        "Nicholas Hoult",
+        "Josh Helman"
+    ],
+    "Josh Helman": [
+        "Tom Hardy",
+        "Charlize Theron",
+        "Nicholas Hoult",
+        "Hugh Keays-Byrne"
+    ],
+    "Shameik Moore": [
+        "Jake Johnson",
+        "Hailee Steinfeld",
+        "Mahershala Ali",
+        "Brian Tyree Henry"
+    ],
+    "Jake Johnson": [
+        "Shameik Moore",
+        "Hailee Steinfeld",
+        "Mahershala Ali",
+        "Brian Tyree Henry"
+    ],
+    "Hailee Steinfeld": [
+        "Shameik Moore",
+        "Jake Johnson",
+        "Mahershala Ali",
+        "Brian Tyree Henry"
+    ],
+    "Mahershala Ali": [
+        "Shameik Moore",
+        "Jake Johnson",
+        "Hailee Steinfeld",
+        "Brian Tyree Henry"
+    ],
+    "Brian Tyree Henry": [
+        "Shameik Moore",
+        "Jake Johnson",
+        "Hailee Steinfeld",
+        "Mahershala Ali"
+    ],
+    "Gal Gadot": [
+        "Chris Pine",
+        "Connie Nielsen",
+        "Robin Wright",
+        "Danny Huston"
+    ],
+    "Chris Pine": [
+        "Gal Gadot",
+        "Connie Nielsen",
+        "Robin Wright",
+        "Danny Huston"
+    ],
+    "Connie Nielsen": [
+        "Gal Gadot",
+        "Chris Pine",
+        "Robin Wright",
+        "Danny Huston"
+    ],
+    "Robin Wright": [
+        "Gal Gadot",
+        "Chris Pine",
+        "Connie Nielsen",
+        "Danny Huston"
+    ],
+    "Danny Huston": [
+        "Gal Gadot",
+        "Chris Pine",
+        "Connie Nielsen",
+        "Robin Wright"
+    ],
+    "Hugh Jackman": [
+        "Patrick Stewart",
+        "Dafne Keen",
+        "Richard E. Grant",
+        "Doris Morgado"
+    ],
+    "Patrick Stewart": [
+        "Hugh Jackman",
+        "Dafne Keen",
+        "Richard E. Grant",
+        "Doris Morgado"
+    ],
+    "Dafne Keen": [
+        "Hugh Jackman",
+        "Patrick Stewart",
+        "Richard E. Grant",
+        "Doris Morgado"
+    ],
+    "Richard E. Grant": [
+        "Hugh Jackman",
+        "Patrick Stewart",
+        "Dafne Keen",
+        "Doris Morgado"
+    ],
+    "Doris Morgado": [
+        "Hugh Jackman",
+        "Patrick Stewart",
+        "Dafne Keen",
+        "Richard E. Grant"
+    ],
+    "Anthony Gonzalez": [
+        "Gael Garc\u00eda Bernal",
+        "Benjamin Bratt",
+        "Alanna Ubach",
+        "Jaime Camil"
+    ],
+    "Gael Garc\u00eda Bernal": [
+        "Anthony Gonzalez",
+        "Benjamin Bratt",
+        "Alanna Ubach",
+        "Jaime Camil"
+    ],
+    "Benjamin Bratt": [
+        "Anthony Gonzalez",
+        "Gael Garc\u00eda Bernal",
+        "Alanna Ubach",
+        "Jaime Camil"
+    ],
+    "Alanna Ubach": [
+        "Anthony Gonzalez",
+        "Gael Garc\u00eda Bernal",
+        "Benjamin Bratt",
+        "Jaime Camil"
+    ],
+    "Jaime Camil": [
+        "Anthony Gonzalez",
+        "Gael Garc\u00eda Bernal",
+        "Benjamin Bratt",
+        "Alanna Ubach"
+    ],
+    "Fionn Whitehead": [
+        "Tom Glynn-Carney",
+        "Jack Lowden",
+        "Harry Styles",
+        "Aneurin Barnard"
+    ],
+    "Tom Glynn-Carney": [
+        "Fionn Whitehead",
+        "Jack Lowden",
+        "Harry Styles",
+        "Aneurin Barnard"
+    ],
+    "Jack Lowden": [
+        "Fionn Whitehead",
+        "Tom Glynn-Carney",
+        "Harry Styles",
+        "Aneurin Barnard"
+    ],
+    "Harry Styles": [
+        "Fionn Whitehead",
+        "Tom Glynn-Carney",
+        "Jack Lowden",
+        "Aneurin Barnard"
+    ],
+    "Aneurin Barnard": [
+        "Fionn Whitehead",
+        "Tom Glynn-Carney",
+        "Jack Lowden",
+        "Harry Styles"
+    ],
+    "Mark Hamill": [
+        "Carrie Fisher",
+        "Adam Driver",
+        "Daisy Ridley",
+        "John Boyega",
+        "Harrison Ford",
+        "Carrie Fisher",
+        "Adam Driver",
+        "Daisy Ridley"
+    ],
+    "Carrie Fisher": [
+        "Mark Hamill",
+        "Adam Driver",
+        "Daisy Ridley",
+        "John Boyega",
+        "Harrison Ford",
+        "Mark Hamill",
+        "Adam Driver",
+        "Daisy Ridley"
+    ],
+    "Adam Driver": [
+        "Mark Hamill",
+        "Carrie Fisher",
+        "Daisy Ridley",
+        "John Boyega",
+        "Harrison Ford",
+        "Mark Hamill",
+        "Carrie Fisher",
+        "Daisy Ridley"
+    ],
+    "Daisy Ridley": [
+        "Mark Hamill",
+        "Carrie Fisher",
+        "Adam Driver",
+        "John Boyega",
+        "Harrison Ford",
+        "Mark Hamill",
+        "Carrie Fisher",
+        "Adam Driver"
+    ],
+    "John Boyega": [
+        "Mark Hamill",
+        "Carrie Fisher",
+        "Adam Driver",
+        "Daisy Ridley"
+    ],
+    "Tom Hiddleston": [
+        "Chris Hemsworth",
+        "Cate Blanchett",
+        "Idris Elba",
+        "Jeff Goldblum"
+    ],
+    "Cate Blanchett": [
+        "Chris Hemsworth",
+        "Tom Hiddleston",
+        "Idris Elba",
+        "Jeff Goldblum"
+    ],
+    "Idris Elba": [
+        "Chris Hemsworth",
+        "Tom Hiddleston",
+        "Cate Blanchett",
+        "Jeff Goldblum",
+        "Ginnifer Goodwin",
+        "Jason Bateman",
+        "Shakira",
+        "J.K. Simmons"
+    ],
+    "Jeff Goldblum": [
+        "Chris Hemsworth",
+        "Tom Hiddleston",
+        "Cate Blanchett",
+        "Idris Elba"
+    ],
+    "Toshiro Mifune": [
+        "Takashi Shimura",
+        "Yoshio Inaba",
+        "Seiji Miyaguchi",
+        "Minoru Chiaki"
+    ],
+    "Takashi Shimura": [
+        "Toshiro Mifune",
+        "Yoshio Inaba",
+        "Seiji Miyaguchi",
+        "Minoru Chiaki"
+    ],
+    "Yoshio Inaba": [
+        "Toshiro Mifune",
+        "Takashi Shimura",
+        "Seiji Miyaguchi",
+        "Minoru Chiaki"
+    ],
+    "Seiji Miyaguchi": [
+        "Toshiro Mifune",
+        "Takashi Shimura",
+        "Yoshio Inaba",
+        "Minoru Chiaki"
+    ],
+    "Minoru Chiaki": [
+        "Toshiro Mifune",
+        "Takashi Shimura",
+        "Yoshio Inaba",
+        "Seiji Miyaguchi"
+    ],
+    "Harrison Ford": [
+        "Mark Hamill",
+        "Carrie Fisher",
+        "Adam Driver",
+        "Daisy Ridley"
+    ],
+    "Brigitte Helm": [
+        "Alfred Abel",
+        "Gustav Fr\u00f6hlich",
+        "Rudolf Klein-Rogge",
+        "Fritz Rasp"
+    ],
+    "Alfred Abel": [
+        "Brigitte Helm",
+        "Gustav Fr\u00f6hlich",
+        "Rudolf Klein-Rogge",
+        "Fritz Rasp"
+    ],
+    "Gustav Fr\u00f6hlich": [
+        "Brigitte Helm",
+        "Alfred Abel",
+        "Rudolf Klein-Rogge",
+        "Fritz Rasp"
+    ],
+    "Rudolf Klein-Rogge": [
+        "Brigitte Helm",
+        "Alfred Abel",
+        "Gustav Fr\u00f6hlich",
+        "Fritz Rasp"
+    ],
+    "Fritz Rasp": [
+        "Brigitte Helm",
+        "Alfred Abel",
+        "Gustav Fr\u00f6hlich",
+        "Rudolf Klein-Rogge"
+    ],
+    "Errol Flynn": [
+        "Olivia de Havilland",
+        "Basil Rathbone",
+        "Claude Rains",
+        "Patric Knowles"
+    ],
+    "Olivia de Havilland": [
+        "Errol Flynn",
+        "Basil Rathbone",
+        "Claude Rains",
+        "Patric Knowles"
+    ],
+    "Basil Rathbone": [
+        "Errol Flynn",
+        "Olivia de Havilland",
+        "Claude Rains",
+        "Patric Knowles"
+    ],
+    "Claude Rains": [
+        "Errol Flynn",
+        "Olivia de Havilland",
+        "Basil Rathbone",
+        "Patric Knowles"
+    ],
+    "Patric Knowles": [
+        "Errol Flynn",
+        "Olivia de Havilland",
+        "Basil Rathbone",
+        "Claude Rains"
+    ],
+    "Craig T. Nelson": [
+        "Holly Hunter",
+        "Sarah Vowell",
+        "Huck Milner",
+        "Samuel L. Jackson"
+    ],
+    "Holly Hunter": [
+        "Craig T. Nelson",
+        "Sarah Vowell",
+        "Huck Milner",
+        "Samuel L. Jackson"
+    ],
+    "Sarah Vowell": [
+        "Craig T. Nelson",
+        "Holly Hunter",
+        "Huck Milner",
+        "Samuel L. Jackson"
+    ],
+    "Huck Milner": [
+        "Craig T. Nelson",
+        "Holly Hunter",
+        "Sarah Vowell",
+        "Samuel L. Jackson"
+    ],
+    "Samuel L. Jackson": [
+        "Craig T. Nelson",
+        "Holly Hunter",
+        "Sarah Vowell",
+        "Huck Milner",
+        "Tom Holland",
+        "Jake Gyllenhaal",
+        "Marisa Tomei",
+        "Jon Favreau"
+    ],
+    "Fay Wray": [
+        "Bruce Cabot",
+        "Robert Armstrong",
+        "Frank Reicher",
+        "Sam Hardy"
+    ],
+    "Bruce Cabot": [
+        "Fay Wray",
+        "Robert Armstrong",
+        "Frank Reicher",
+        "Sam Hardy"
+    ],
+    "Robert Armstrong": [
+        "Fay Wray",
+        "Bruce Cabot",
+        "Frank Reicher",
+        "Sam Hardy"
+    ],
+    "Frank Reicher": [
+        "Fay Wray",
+        "Bruce Cabot",
+        "Robert Armstrong",
+        "Sam Hardy"
+    ],
+    "Sam Hardy": [
+        "Fay Wray",
+        "Bruce Cabot",
+        "Robert Armstrong",
+        "Frank Reicher"
+    ],
+    "Ginnifer Goodwin": [
+        "Jason Bateman",
+        "Shakira",
+        "Idris Elba",
+        "J.K. Simmons"
+    ],
+    "Jason Bateman": [
+        "Ginnifer Goodwin",
+        "Shakira",
+        "Idris Elba",
+        "J.K. Simmons"
+    ],
+    "Shakira": [
+        "Ginnifer Goodwin",
+        "Jason Bateman",
+        "Idris Elba",
+        "J.K. Simmons"
+    ],
+    "J.K. Simmons": [
+        "Ginnifer Goodwin",
+        "Jason Bateman",
+        "Shakira",
+        "Idris Elba"
+    ],
+    "William Holden": [
+        "Alec Guinness",
+        "Sessue Hayakawa",
+        "Jack Hawkins",
+        "James Donald"
+    ],
+    "Alec Guinness": [
+        "William Holden",
+        "Sessue Hayakawa",
+        "Jack Hawkins",
+        "James Donald"
+    ],
+    "Sessue Hayakawa": [
+        "William Holden",
+        "Alec Guinness",
+        "Jack Hawkins",
+        "James Donald"
+    ],
+    "Jack Hawkins": [
+        "William Holden",
+        "Alec Guinness",
+        "Sessue Hayakawa",
+        "James Donald"
+    ],
+    "James Donald": [
+        "William Holden",
+        "Alec Guinness",
+        "Sessue Hayakawa",
+        "Jack Hawkins"
+    ],
+    "Tom Holland": [
+        "Samuel L. Jackson",
+        "Jake Gyllenhaal",
+        "Marisa Tomei",
+        "Jon Favreau"
+    ],
+    "Jake Gyllenhaal": [
+        "Tom Holland",
+        "Samuel L. Jackson",
+        "Marisa Tomei",
+        "Jon Favreau"
+    ],
+    "Marisa Tomei": [
+        "Tom Holland",
+        "Samuel L. Jackson",
+        "Jake Gyllenhaal",
+        "Jon Favreau"
+    ],
+    "Jon Favreau": [
+        "Tom Holland",
+        "Samuel L. Jackson",
+        "Jake Gyllenhaal",
+        "Marisa Tomei"
+    ]
+}

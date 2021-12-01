@@ -1,0 +1,802 @@
+[
+     {
+          "movieRank": "1",
+          "movieYear": "2018",
+          "movieRating": "96%",
+          "movieName": "Black Panther",
+          "reviewsNo": "525",
+          "movie_link": "https://www.rottentomatoes.com/m/black_panther_2018"
+     },
+     {
+          "movieRank": "2",
+          "movieYear": "2019",
+          "movieRating": "94%",
+          "movieName": "Avengers: Endgame",
+          "reviewsNo": "547",
+          "movie_link": "https://www.rottentomatoes.com/m/avengers_endgame"
+     },
+     {
+          "movieRank": "3",
+          "movieYear": "2018",
+          "movieRating": "97%",
+          "movieName": "Mission: Impossible - Fallout",
+          "reviewsNo": "437",
+          "movie_link": "https://www.rottentomatoes.com/m/mission_impossible_fallout"
+     },
+     {
+          "movieRank": "4",
+          "movieYear": "2015",
+          "movieRating": "97%",
+          "movieName": "Mad Max: Fury Road",
+          "reviewsNo": "434",
+          "movie_link": "https://www.rottentomatoes.com/m/mad_max_fury_road"
+     },
+     {
+          "movieRank": "5",
+          "movieYear": "2018",
+          "movieRating": "97%",
+          "movieName": "Spider-Man: Into the Spider-Verse",
+          "reviewsNo": "392",
+          "movie_link": "https://www.rottentomatoes.com/m/spider_man_into_the_spider_verse"
+     },
+     {
+          "movieRank": "6",
+          "movieYear": "2017",
+          "movieRating": "93%",
+          "movieName": "Wonder Woman",
+          "reviewsNo": "471",
+          "movie_link": "https://www.rottentomatoes.com/m/wonder_woman_2017"
+     },
+     {
+          "movieRank": "7",
+          "movieYear": "2017",
+          "movieRating": "94%",
+          "movieName": "Logan",
+          "reviewsNo": "423",
+          "movie_link": "https://www.rottentomatoes.com/m/logan_2017"
+     },
+     {
+          "movieRank": "8",
+          "movieYear": "2017",
+          "movieRating": "97%",
+          "movieName": "Coco",
+          "reviewsNo": "353",
+          "movie_link": "https://www.rottentomatoes.com/m/coco_2017"
+     },
+     {
+          "movieRank": "9",
+          "movieYear": "2017",
+          "movieRating": "92%",
+          "movieName": "Dunkirk",
+          "reviewsNo": "461",
+          "movie_link": "https://www.rottentomatoes.com/m/dunkirk_2017"
+     },
+     {
+          "movieRank": "10",
+          "movieYear": "2017",
+          "movieRating": "91%",
+          "movieName": "Star Wars: The Last Jedi",
+          "reviewsNo": "482",
+          "movie_link": "https://www.rottentomatoes.com/m/star_wars_the_last_jedi"
+     },
+     {
+          "movieRank": "11",
+          "movieYear": "2017",
+          "movieRating": "93%",
+          "movieName": "Thor: Ragnarok",
+          "reviewsNo": "437",
+          "movie_link": "https://www.rottentomatoes.com/m/thor_ragnarok_2017"
+     },
+     {
+          "movieRank": "12",
+          "movieYear": "1956",
+          "movieRating": "100%",
+          "movieName": "Seven Samurai (Shichinin no Samurai)",
+          "reviewsNo": "88",
+          "movie_link": "https://www.rottentomatoes.com/m/seven_samurai_1956"
+     },
+     {
+          "movieRank": "13",
+          "movieYear": "2015",
+          "movieRating": "93%",
+          "movieName": "Star Wars: Episode VII - The Force Awakens",
+          "reviewsNo": "445",
+          "movie_link": "https://www.rottentomatoes.com/m/star_wars_episode_vii_the_force_awakens"
+     },
+     {
+          "movieRank": "14",
+          "movieYear": "1927",
+          "movieRating": "97%",
+          "movieName": "Metropolis",
+          "reviewsNo": "134",
+          "movie_link": "https://www.rottentomatoes.com/m/1013775-metropolis"
+     },
+     {
+          "movieRank": "15",
+          "movieYear": "1938",
+          "movieRating": "100%",
+          "movieName": "The Adventures of Robin Hood",
+          "reviewsNo": "48",
+          "movie_link": "https://www.rottentomatoes.com/m/1000355-adventures_of_robin_hood"
+     },
+     {
+          "movieRank": "16",
+          "movieYear": "2018",
+          "movieRating": "93%",
+          "movieName": "Incredibles 2",
+          "reviewsNo": "387",
+          "movie_link": "https://www.rottentomatoes.com/m/incredibles_2"
+     },
+     {
+          "movieRank": "17",
+          "movieYear": "1933",
+          "movieRating": "98%",
+          "movieName": "King Kong",
+          "reviewsNo": "66",
+          "movie_link": "https://www.rottentomatoes.com/m/1011615-king_kong"
+     },
+     {
+          "movieRank": "18",
+          "movieYear": "2016",
+          "movieRating": "98%",
+          "movieName": "Zootopia",
+          "reviewsNo": "298",
+          "movie_link": "https://www.rottentomatoes.com/m/zootopia"
+     },
+     {
+          "movieRank": "19",
+          "movieYear": "1957",
+          "movieRating": "97%",
+          "movieName": "The Bridge on the River Kwai",
+          "reviewsNo": "91",
+          "movie_link": "https://www.rottentomatoes.com/m/bridge_on_the_river_kwai"
+     },
+     {
+          "movieRank": "20",
+          "movieYear": "2019",
+          "movieRating": "90%",
+          "movieName": "Spider-Man: Far From Home",
+          "reviewsNo": "451",
+          "movie_link": "https://www.rottentomatoes.com/m/spider_man_far_from_home"
+     },
+     {
+          "movieRank": "21",
+          "movieYear": "2017",
+          "movieRating": "94%",
+          "movieName": "War for the Planet of the Apes",
+          "reviewsNo": "360",
+          "movie_link": "https://www.rottentomatoes.com/m/war_for_the_planet_of_the_apes"
+     },
+     {
+          "movieRank": "22",
+          "movieYear": "2017",
+          "movieRating": "92%",
+          "movieName": "Baby Driver",
+          "reviewsNo": "395",
+          "movie_link": "https://www.rottentomatoes.com/m/baby_driver"
+     },
+     {
+          "movieRank": "23",
+          "movieYear": "2017",
+          "movieRating": "92%",
+          "movieName": "Spider-Man: Homecoming",
+          "reviewsNo": "394",
+          "movie_link": "https://www.rottentomatoes.com/m/spider_man_homecoming"
+     },
+     {
+          "movieRank": "24",
+          "movieYear": "1975",
+          "movieRating": "98%",
+          "movieName": "Jaws",
+          "reviewsNo": "95",
+          "movie_link": "https://www.rottentomatoes.com/m/jaws"
+     },
+     {
+          "movieRank": "25",
+          "movieYear": "2009",
+          "movieRating": "98%",
+          "movieName": "Up",
+          "reviewsNo": "298",
+          "movie_link": "https://www.rottentomatoes.com/m/up"
+     },
+     {
+          "movieRank": "26",
+          "movieYear": "2019",
+          "movieRating": "90%",
+          "movieName": "Shazam!",
+          "reviewsNo": "413",
+          "movie_link": "https://www.rottentomatoes.com/m/shazam"
+     },
+     {
+          "movieRank": "27",
+          "movieYear": "2008",
+          "movieRating": "94%",
+          "movieName": "The Dark Knight",
+          "reviewsNo": "345",
+          "movie_link": "https://www.rottentomatoes.com/m/the_dark_knight"
+     },
+     {
+          "movieRank": "28",
+          "movieYear": "1948",
+          "movieRating": "100%",
+          "movieName": "The Treasure of the Sierra Madre",
+          "reviewsNo": "52",
+          "movie_link": "https://www.rottentomatoes.com/m/treasure_of_the_sierra_madre"
+     },
+     {
+          "movieRank": "29",
+          "movieYear": "2016",
+          "movieRating": "90%",
+          "movieName": "Captain America: Civil War",
+          "reviewsNo": "426",
+          "movie_link": "https://www.rottentomatoes.com/m/captain_america_civil_war"
+     },
+     {
+          "movieRank": "30",
+          "movieYear": "2012",
+          "movieRating": "92%",
+          "movieName": "Skyfall",
+          "reviewsNo": "384",
+          "movie_link": "https://www.rottentomatoes.com/m/skyfall"
+     },
+     {
+          "movieRank": "31",
+          "movieYear": "2017",
+          "movieRating": "88%",
+          "movieName": "Blade Runner 2049",
+          "reviewsNo": "442",
+          "movie_link": "https://www.rottentomatoes.com/m/blade_runner_2049"
+     },
+     {
+          "movieRank": "32",
+          "movieYear": "1971",
+          "movieRating": "98%",
+          "movieName": "The French Connection",
+          "reviewsNo": "84",
+          "movie_link": "https://www.rottentomatoes.com/m/french_connection"
+     },
+     {
+          "movieRank": "33",
+          "movieYear": "2016",
+          "movieRating": "94%",
+          "movieName": "The Jungle Book",
+          "reviewsNo": "327",
+          "movie_link": "https://www.rottentomatoes.com/m/the_jungle_book_2016"
+     },
+     {
+          "movieRank": "34",
+          "movieYear": "2011",
+          "movieRating": "96%",
+          "movieName": "Harry Potter and the Deathly Hallows - Part 2",
+          "reviewsNo": "331",
+          "movie_link": "https://www.rottentomatoes.com/m/harry_potter_and_the_deathly_hallows_part_2_2011"
+     },
+     {
+          "movieRank": "35",
+          "movieYear": "1935",
+          "movieRating": "96%",
+          "movieName": "The 39 Steps",
+          "reviewsNo": "52",
+          "movie_link": "https://www.rottentomatoes.com/m/1000121-39_steps"
+     },
+     {
+          "movieRank": "36",
+          "movieYear": "2015",
+          "movieRating": "94%",
+          "movieName": "Mission: Impossible Rogue Nation",
+          "reviewsNo": "326",
+          "movie_link": "https://www.rottentomatoes.com/m/mission_impossible_rogue_nation"
+     },
+     {
+          "movieRank": "37",
+          "movieYear": "2009",
+          "movieRating": "97%",
+          "movieName": "The Hurt Locker",
+          "reviewsNo": "289",
+          "movie_link": "https://www.rottentomatoes.com/m/the_hurt_locker"
+     },
+     {
+          "movieRank": "38",
+          "movieYear": "1979",
+          "movieRating": "98%",
+          "movieName": "Apocalypse Now",
+          "reviewsNo": "96",
+          "movie_link": "https://www.rottentomatoes.com/m/apocalypse_now"
+     },
+     {
+          "movieRank": "39",
+          "movieYear": "2018",
+          "movieRating": "85%",
+          "movieName": "Avengers: Infinity War",
+          "reviewsNo": "485",
+          "movie_link": "https://www.rottentomatoes.com/m/avengers_infinity_war"
+     },
+     {
+          "movieRank": "40",
+          "movieYear": "2009",
+          "movieRating": "94%",
+          "movieName": "Star Trek",
+          "reviewsNo": "355",
+          "movie_link": "https://www.rottentomatoes.com/m/star_trek_11"
+     },
+     {
+          "movieRank": "41",
+          "movieYear": "2014",
+          "movieRating": "96%",
+          "movieName": "The LEGO Movie",
+          "reviewsNo": "253",
+          "movie_link": "https://www.rottentomatoes.com/m/the_lego_movie"
+     },
+     {
+          "movieRank": "42",
+          "movieYear": "1962",
+          "movieRating": "93%",
+          "movieName": "Lawrence of Arabia",
+          "reviewsNo": "122",
+          "movie_link": "https://www.rottentomatoes.com/m/lawrence_of_arabia"
+     },
+     {
+          "movieRank": "43",
+          "movieYear": "2018",
+          "movieRating": "87%",
+          "movieName": "Ant-Man and the Wasp",
+          "reviewsNo": "439",
+          "movie_link": "https://www.rottentomatoes.com/m/ant_man_and_the_wasp"
+     },
+     {
+          "movieRank": "44",
+          "movieYear": "2016",
+          "movieRating": "95%",
+          "movieName": "Moana",
+          "reviewsNo": "283",
+          "movie_link": "https://www.rottentomatoes.com/m/moana_2016"
+     },
+     {
+          "movieRank": "45",
+          "movieYear": "2018",
+          "movieRating": "90%",
+          "movieName": "Isle of Dogs",
+          "reviewsNo": "367",
+          "movie_link": "https://www.rottentomatoes.com/m/isle_of_dogs_2018"
+     },
+     {
+          "movieRank": "46",
+          "movieYear": "2014",
+          "movieRating": "92%",
+          "movieName": "Guardians of the Galaxy",
+          "reviewsNo": "334",
+          "movie_link": "https://www.rottentomatoes.com/m/guardians_of_the_galaxy"
+     },
+     {
+          "movieRank": "47",
+          "movieYear": "2016",
+          "movieRating": "97%",
+          "movieName": "Kubo and the Two Strings",
+          "reviewsNo": "226",
+          "movie_link": "https://www.rottentomatoes.com/m/kubo_and_the_two_strings_2016"
+     },
+     {
+          "movieRank": "48",
+          "movieYear": "1964",
+          "movieRating": "99%",
+          "movieName": "Goldfinger",
+          "reviewsNo": "69",
+          "movie_link": "https://www.rottentomatoes.com/m/goldfinger"
+     },
+     {
+          "movieRank": "49",
+          "movieYear": "1977",
+          "movieRating": "92%",
+          "movieName": "Star Wars: Episode IV - A New Hope",
+          "reviewsNo": "132",
+          "movie_link": "https://www.rottentomatoes.com/m/star_wars_a_new_hope"
+     },
+     {
+          "movieRank": "50",
+          "movieYear": "1939",
+          "movieRating": "100%",
+          "movieName": "Stagecoach",
+          "reviewsNo": "45",
+          "movie_link": "https://www.rottentomatoes.com/m/1019774-stagecoach"
+     },
+     {
+          "movieRank": "51",
+          "movieYear": "2012",
+          "movieRating": "91%",
+          "movieName": "Marvel's The Avengers",
+          "reviewsNo": "362",
+          "movie_link": "https://www.rottentomatoes.com/m/marvels_the_avengers"
+     },
+     {
+          "movieRank": "52",
+          "movieYear": "2008",
+          "movieRating": "95%",
+          "movieName": "WALL-E",
+          "reviewsNo": "260",
+          "movie_link": "https://www.rottentomatoes.com/m/wall_e"
+     },
+     {
+          "movieRank": "53",
+          "movieYear": "2008",
+          "movieRating": "94%",
+          "movieName": "Iron Man",
+          "reviewsNo": "281",
+          "movie_link": "https://www.rottentomatoes.com/m/iron_man"
+     },
+     {
+          "movieRank": "54",
+          "movieYear": "1984",
+          "movieRating": "100%",
+          "movieName": "The Terminator",
+          "reviewsNo": "65",
+          "movie_link": "https://www.rottentomatoes.com/m/terminator"
+     },
+     {
+          "movieRank": "55",
+          "movieYear": "2016",
+          "movieRating": "97%",
+          "movieName": "Hunt for the Wilderpeople",
+          "reviewsNo": "206",
+          "movie_link": "https://www.rottentomatoes.com/m/hunt_for_the_wilderpeople"
+     },
+     {
+          "movieRank": "56",
+          "movieYear": "1951",
+          "movieRating": "98%",
+          "movieName": "The African Queen",
+          "reviewsNo": "45",
+          "movie_link": "https://www.rottentomatoes.com/m/the_african_queen_1951"
+     },
+     {
+          "movieRank": "57",
+          "movieYear": "2016",
+          "movieRating": "89%",
+          "movieName": "Doctor Strange",
+          "reviewsNo": "385",
+          "movie_link": "https://www.rottentomatoes.com/m/doctor_strange_2016"
+     },
+     {
+          "movieRank": "58",
+          "movieYear": "1987",
+          "movieRating": "98%",
+          "movieName": "The Princess Bride",
+          "reviewsNo": "80",
+          "movie_link": "https://www.rottentomatoes.com/m/princess_bride"
+     },
+     {
+          "movieRank": "59",
+          "movieYear": "1974",
+          "movieRating": "100%",
+          "movieName": "The Taking of Pelham One Two Three",
+          "reviewsNo": "43",
+          "movie_link": "https://www.rottentomatoes.com/m/the_taking_of_pelham_one_two_three"
+     },
+     {
+          "movieRank": "60",
+          "movieYear": "2019",
+          "movieRating": "89%",
+          "movieName": "John Wick: Chapter 3 - Parabellum",
+          "reviewsNo": "353",
+          "movie_link": "https://www.rottentomatoes.com/m/john_wick_chapter_3_parabellum"
+     },
+     {
+          "movieRank": "61",
+          "movieYear": "2019",
+          "movieRating": "95%",
+          "movieName": "The Peanut Butter Falcon",
+          "reviewsNo": "220",
+          "movie_link": "https://www.rottentomatoes.com/m/the_peanut_butter_falcon"
+     },
+     {
+          "movieRank": "62",
+          "movieYear": "1986",
+          "movieRating": "97%",
+          "movieName": "Aliens",
+          "reviewsNo": "78",
+          "movie_link": "https://www.rottentomatoes.com/m/1000617-aliens"
+     },
+     {
+          "movieRank": "63",
+          "movieYear": "1980",
+          "movieRating": "94%",
+          "movieName": "Star Wars: Episode V - The Empire Strikes Back",
+          "reviewsNo": "105",
+          "movie_link": "https://www.rottentomatoes.com/m/star_wars_the_empire_strikes_back"
+     },
+     {
+          "movieRank": "64",
+          "movieYear": "1957",
+          "movieRating": "95%",
+          "movieName": "Paths of Glory",
+          "reviewsNo": "66",
+          "movie_link": "https://www.rottentomatoes.com/m/paths_of_glory"
+     },
+     {
+          "movieRank": "65",
+          "movieYear": "2010",
+          "movieRating": "95%",
+          "movieName": "True Grit",
+          "reviewsNo": "275",
+          "movie_link": "https://www.rottentomatoes.com/m/true_grit_2010"
+     },
+     {
+          "movieRank": "66",
+          "movieYear": "2014",
+          "movieRating": "90%",
+          "movieName": "X-Men: Days of Future Past",
+          "reviewsNo": "330",
+          "movie_link": "https://www.rottentomatoes.com/m/x_men_days_of_future_past"
+     },
+     {
+          "movieRank": "67",
+          "movieYear": "2013",
+          "movieRating": "94%",
+          "movieName": "All Is Lost",
+          "reviewsNo": "240",
+          "movie_link": "https://www.rottentomatoes.com/m/all_is_lost_2013"
+     },
+     {
+          "movieRank": "68",
+          "movieYear": "2012",
+          "movieRating": "93%",
+          "movieName": "Looper",
+          "reviewsNo": "270",
+          "movie_link": "https://www.rottentomatoes.com/m/looper"
+     },
+     {
+          "movieRank": "69",
+          "movieYear": "2006",
+          "movieRating": "94%",
+          "movieName": "Casino Royale",
+          "reviewsNo": "263",
+          "movie_link": "https://www.rottentomatoes.com/m/casino_royale"
+     },
+     {
+          "movieRank": "70",
+          "movieYear": "2017",
+          "movieRating": "90%",
+          "movieName": "The Lego Batman Movie",
+          "reviewsNo": "313",
+          "movie_link": "https://www.rottentomatoes.com/m/the_lego_batman_movie"
+     },
+     {
+          "movieRank": "71",
+          "movieYear": "1974",
+          "movieRating": "97%",
+          "movieName": "Badlands",
+          "reviewsNo": "59",
+          "movie_link": "https://www.rottentomatoes.com/m/badlands"
+     },
+     {
+          "movieRank": "72",
+          "movieYear": "2000",
+          "movieRating": "97%",
+          "movieName": "Chicken Run",
+          "reviewsNo": "173",
+          "movie_link": "https://www.rottentomatoes.com/m/chicken_run"
+     },
+     {
+          "movieRank": "73",
+          "movieYear": "2017",
+          "movieRating": "85%",
+          "movieName": "Guardians of the Galaxy Vol. 2",
+          "reviewsNo": "422",
+          "movie_link": "https://www.rottentomatoes.com/m/guardians_of_the_galaxy_vol_2"
+     },
+     {
+          "movieRank": "74",
+          "movieYear": "1979",
+          "movieRating": "100%",
+          "movieName": "Stalker",
+          "reviewsNo": "41",
+          "movie_link": "https://www.rottentomatoes.com/m/1043378-stalker"
+     },
+     {
+          "movieRank": "75",
+          "movieYear": "2007",
+          "movieRating": "93%",
+          "movieName": "No Country for Old Men",
+          "reviewsNo": "288",
+          "movie_link": "https://www.rottentomatoes.com/m/no_country_for_old_men"
+     },
+     {
+          "movieRank": "76",
+          "movieYear": "2014",
+          "movieRating": "90%",
+          "movieName": "Dawn Of The Planet Of The Apes",
+          "reviewsNo": "315",
+          "movie_link": "https://www.rottentomatoes.com/m/dawn_of_the_planet_of_the_apes"
+     },
+     {
+          "movieRank": "77",
+          "movieYear": "2019",
+          "movieRating": "79%",
+          "movieName": "Captain Marvel",
+          "reviewsNo": "543",
+          "movie_link": "https://www.rottentomatoes.com/m/captain_marvel"
+     },
+     {
+          "movieRank": "78",
+          "movieYear": "2015",
+          "movieRating": "92%",
+          "movieName": "Sicario",
+          "reviewsNo": "280",
+          "movie_link": "https://www.rottentomatoes.com/m/sicario_2015"
+     },
+     {
+          "movieRank": "79",
+          "movieYear": "1985",
+          "movieRating": "96%",
+          "movieName": "Ran",
+          "reviewsNo": "89",
+          "movie_link": "https://www.rottentomatoes.com/m/ran"
+     },
+     {
+          "movieRank": "80",
+          "movieYear": "2020",
+          "movieRating": "88%",
+          "movieName": "Onward",
+          "reviewsNo": "337",
+          "movie_link": "https://www.rottentomatoes.com/m/onward"
+     },
+     {
+          "movieRank": "81",
+          "movieYear": "1993",
+          "movieRating": "92%",
+          "movieName": "Jurassic Park",
+          "reviewsNo": "130",
+          "movie_link": "https://www.rottentomatoes.com/m/jurassic_park"
+     },
+     {
+          "movieRank": "82",
+          "movieYear": "1989",
+          "movieRating": "100%",
+          "movieName": "Henry V",
+          "reviewsNo": "40",
+          "movie_link": "https://www.rottentomatoes.com/m/1029042-henry_v"
+     },
+     {
+          "movieRank": "83",
+          "movieYear": "1964",
+          "movieRating": "98%",
+          "movieName": "A Fistful of Dollars (Per un Pugno di Dollari)",
+          "reviewsNo": "51",
+          "movie_link": "https://www.rottentomatoes.com/m/fistful_of_dollars"
+     },
+     {
+          "movieRank": "84",
+          "movieYear": "2002",
+          "movieRating": "95%",
+          "movieName": "The Lord of the Rings: The Two Towers",
+          "reviewsNo": "255",
+          "movie_link": "https://www.rottentomatoes.com/m/the_lord_of_the_rings_the_two_towers"
+     },
+     {
+          "movieRank": "85",
+          "movieYear": "1984",
+          "movieRating": "97%",
+          "movieName": "Ghostbusters (1984 Original)",
+          "reviewsNo": "73",
+          "movie_link": "https://www.rottentomatoes.com/m/ghostbusters"
+     },
+     {
+          "movieRank": "86",
+          "movieYear": "1959",
+          "movieRating": "98%",
+          "movieName": "Rio Bravo",
+          "reviewsNo": "43",
+          "movie_link": "https://www.rottentomatoes.com/m/rio_bravo"
+     },
+     {
+          "movieRank": "87",
+          "movieYear": "2014",
+          "movieRating": "90%",
+          "movieName": "Captain America: The Winter Soldier",
+          "reviewsNo": "306",
+          "movie_link": "https://www.rottentomatoes.com/m/captain_america_the_winter_soldier_2014"
+     },
+     {
+          "movieRank": "88",
+          "movieYear": "1957",
+          "movieRating": "94%",
+          "movieName": "The Seventh Seal (Det Sjunde inseglet)",
+          "reviewsNo": "62",
+          "movie_link": "https://www.rottentomatoes.com/m/seventh_seal"
+     },
+     {
+          "movieRank": "89",
+          "movieYear": "2018",
+          "movieRating": "84%",
+          "movieName": "Deadpool 2",
+          "reviewsNo": "420",
+          "movie_link": "https://www.rottentomatoes.com/m/deadpool_2"
+     },
+     {
+          "movieRank": "90",
+          "movieYear": "1956",
+          "movieRating": "96%",
+          "movieName": "The Searchers",
+          "reviewsNo": "50",
+          "movie_link": "https://www.rottentomatoes.com/m/searchers"
+     },
+     {
+          "movieRank": "91",
+          "movieYear": "1985",
+          "movieRating": "96%",
+          "movieName": "Back to the Future",
+          "reviewsNo": "83",
+          "movie_link": "https://www.rottentomatoes.com/m/back_to_the_future"
+     },
+     {
+          "movieRank": "92",
+          "movieYear": "2001",
+          "movieRating": "97%",
+          "movieName": "Crouching Tiger, Hidden Dragon",
+          "reviewsNo": "159",
+          "movie_link": "https://www.rottentomatoes.com/m/crouching_tiger_hidden_dragon"
+     },
+     {
+          "movieRank": "93",
+          "movieYear": "1993",
+          "movieRating": "96%",
+          "movieName": "The Fugitive",
+          "reviewsNo": "79",
+          "movie_link": "https://www.rottentomatoes.com/m/1046129-fugitive"
+     },
+     {
+          "movieRank": "94",
+          "movieYear": "1972",
+          "movieRating": "96%",
+          "movieName": "Aguirre, the Wrath of God (Aguirre, der Zorn Gottes)",
+          "reviewsNo": "50",
+          "movie_link": "https://www.rottentomatoes.com/m/aguirre_the_wrath_of_god"
+     },
+     {
+          "movieRank": "95",
+          "movieYear": "1968",
+          "movieRating": "98%",
+          "movieName": "Bullitt",
+          "reviewsNo": "42",
+          "movie_link": "https://www.rottentomatoes.com/m/bullitt"
+     },
+     {
+          "movieRank": "96",
+          "movieYear": "2018",
+          "movieRating": "88%",
+          "movieName": "Annihilation",
+          "reviewsNo": "326",
+          "movie_link": "https://www.rottentomatoes.com/m/annihilation"
+     },
+     {
+          "movieRank": "97",
+          "movieYear": "1994",
+          "movieRating": "93%",
+          "movieName": "The Lion King",
+          "reviewsNo": "130",
+          "movie_link": "https://www.rottentomatoes.com/m/the_lion_king"
+     },
+     {
+          "movieRank": "98",
+          "movieYear": "1995",
+          "movieRating": "96%",
+          "movieName": "Apollo 13",
+          "reviewsNo": "93",
+          "movie_link": "https://www.rottentomatoes.com/m/apollo_13"
+     },
+     {
+          "movieRank": "99",
+          "movieYear": "2002",
+          "movieRating": "96%",
+          "movieName": "Catch Me If You Can",
+          "reviewsNo": "203",
+          "movie_link": "https://www.rottentomatoes.com/m/catch_me_if_you_can"
+     },
+     {
+          "movieRank": "100",
+          "movieYear": "1988",
+          "movieRating": "97%",
+          "movieName": "Who Framed Roger Rabbit",
+          "reviewsNo": "66",
+          "movie_link": "https://www.rottentomatoes.com/m/who_framed_roger_rabbit"
+     }
+]
